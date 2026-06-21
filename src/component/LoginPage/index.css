@@ -1,0 +1,83 @@
+.login-main-container{
+  background-color:#e9f3f6;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'DM sans', sans-serif;
+}
+.login-head{
+  color: #5838e9;
+  font-weight: 700;
+  font-size: 30px; 
+  margin-top: 20px; 
+}
+.tag-line{
+  font-size: 15px;
+  color: #7a7e80;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.form-bg{
+  width: 350px;
+  height: 350px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 0 0.5 #000000;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.userlable{
+  font-size: 15px;
+  color: #000000;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.userinput{
+  height: 30px;
+  width: 290px;
+  outline: none;
+  font-size: 16px;
+  padding-left: 10px;
+  margin-bottom: 30px;
+}
+
+.passlable{
+  font-size: 15px;
+  color: #000000;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.passinput{
+  height: 30px;
+  width: 290px;
+  outline: none;
+  font-size: 16px;
+  padding-left: 10px;
+  margin-bottom: 4px;
+}
+.error{
+  color: red;
+  font-size: 13px;
+  margin-bottom: 30px;
+}
+.sign-btn{
+  width: 303px;
+  background-color: #5838e9;
+  height: 33px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 15px;
+  cursor: pointer;
+}
+.error-div{
+  height: 45px;
+}

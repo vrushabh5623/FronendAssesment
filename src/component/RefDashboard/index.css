@@ -1,0 +1,122 @@
+.referal-div{
+  font-family: 'DM sans',sans-serif;
+  margin-top: 40px;
+  margin-left: 25px;
+  margin-right: 25px;
+
+}
+.referal-head{
+  font-size: 20px;
+  color: rgb(24, 28, 32);
+  margin-bottom: 8px;
+}
+.referal-para{
+  font-size: 16px;
+  color: #7a7e80;
+}
+.overview-div{
+  background-color: #ffffff;
+  /* height: 400px; */
+  margin-top: 20px;
+  border-radius: 20px;
+  border: 1px solid #d9dfe2 ;
+  padding: 30px;
+  padding-bottom: 10px;
+}
+.overview-head{
+  color: #000000;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.card-bg{
+  background-color: rgb(234, 243, 243);
+  width: 220px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.over-logo{
+  font-size: 18px;
+  padding: 8px 5px 5px 5px;
+  background-color: rgb(106, 99, 240);
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 5px;
+}
+.card-main-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.currency{
+  font-size: 21px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.currency2{
+  font-size: 18px;
+  margin-top: 15px;
+  color: #2d5bf0;
+}
+.currency3{
+  font-size: 18px;
+  margin-top: 15px;
+  color: #000000;
+}
+.total-balance{
+  font-size: 15px;
+  color: #7a7e80;
+}
+.total-balance2{
+  font-size: 15px;
+  color: #7a7e80;
+  text-transform: uppercase;
+}
+.link-input{
+  width: 400px;
+  height: 35px;
+  outline: none;
+  background-color: #f0f2f7;
+  border: 1px solid #c1c1c2;
+  padding-left: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.copy-btn{
+  background-color: rgb(106, 99, 240);
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 700;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+.copy-btn-div{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.laoding-div{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading-para{
+  font-family: 'DM sans',sans-serif;
+  font-size: 20px;
+  color: #7a7e80;
+}

@@ -1,0 +1,28 @@
+.notfound-bg{
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'DM sans',sans-serif;
+}
+.not-found-num{
+  color: black;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.not-found-para{
+  font-size: 15px;
+  color: black;
+  padding-bottom: 10px;
+}
+.not-found-btn{
+  color: #5838e9;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
